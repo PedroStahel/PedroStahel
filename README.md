@@ -1,12 +1,5 @@
 # Olá, eu sou o Pedro! 👋
 
-<div align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180px"/>
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="180px"/>
-</div>
-
----
-
 ### 🎓 Sobre Mim
 * 🏫 Graduando em **Ciência da Computação** (4º período) na **UFPR**.
 * 🧠 Participante do **Projeto Especial Honors (UFPR)** para alunos com alto desempenho em matemática.
@@ -33,21 +26,13 @@
 ### 🛠️ Tecnologias & Ferramentas
 
 #### 💻 Linguagens de Programação
-![Python](https://shields.io)
-![C](https://shields.io)
-![SQL](https://shields.io)
-![PHP](https://shields.io)
-![Haskell](https://shields.io)
-![Pascal](https://shields.io)
+![Python]
+![C]
+![SQL]
+![PHP]
+![Haskell]
+![Pascal]
 
 #### 📊 Frameworks & Data Analytics
-![Laravel](https://shields.io)
-![Power BI](https://shields.io)
-
----
-
-### 📫 Como me encontrar
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://shields.io" alt="LinkedIn">
-</a>
-
+![Laravel]
+![Power BI]

@@ -26,13 +26,13 @@
 ### 🛠️ Tecnologias & Ferramentas
 
 #### 💻 Linguagens de Programação
-![Python]
-![C]
-![SQL]
-![PHP]
-![Haskell]
-![Pascal]
+* Python
+* C
+* SQL
+* PHP
+* Haskell
+* Pascal
 
 #### 📊 Frameworks & Data Analytics
-![Laravel]
-![Power BI]
+* Laravel
+* Power BI

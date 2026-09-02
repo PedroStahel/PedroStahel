@@ -1,4 +1,4 @@
-# Olá, eu sou o Pedro! 👋
+# Pedro Stahel
 
 ### 🎓 Sobre Mim
 * 🏫 Graduando em **Ciência da Computação** (4º período) na **UFPR**.

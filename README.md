@@ -9,7 +9,7 @@
 ---
 
 ### 🏆 Conquistas & Programação Competitiva
-* 🧠 Competidor da **ICPC** (Maratona de Programação).
+* 🧠 Competidor da **Maratona de Programação SBC**.
 * ⚖️ Participante do **Hackathon da OAB** -> (SAFA IA).
 * 📐 **Ex-Monitor de Cálculo 1 (Turmas Honors - 2026)**: Resolução e abstração de problemas complexos.
 

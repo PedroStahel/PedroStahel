@@ -70,7 +70,7 @@ Tenho especial interesse em **algoritmos e estruturas de dados, desenvolvimento 
 
 ## 📚 Atualmente
 
-- Aprofundando os conhecimentos em **Java e programação orientada a objetos**.
+- Aprofundando os conhecimentos em **Python, Java e programação orientada a objetos**.
 - Praticando **algoritmos e resolução de problemas**.
 - Explorando aplicações de **dados e IA** no desenvolvimento de software.
 

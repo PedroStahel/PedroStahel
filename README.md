@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá, eu sou o Pedro Stahel! 👋
+# **Pedro Stahel**
 
 **Estudante de Ciência da Computação na UFPR**  
 **Algoritmos • Desenvolvimento de Software • Dados**

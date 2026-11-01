@@ -82,7 +82,3 @@ Tenho especial interesse em **algoritmos e estruturas de dados, desenvolvimento 
 - **Idiomas:** Português nativo | Inglês avançado (C1)
 
 ---
-
-<div align="center">
-  <em>Aprendendo, construindo e melhorando a cada projeto.</em>
-</div>

@@ -8,6 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-PedroStahel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroStahel)
 [![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrostahelazv2007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Stahel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-stahel-86a44b349)
 
 </div>
 
@@ -77,6 +78,7 @@ Tenho especial interesse em **algoritmos e estruturas de dados, desenvolvimento 
 ## 📫 Contato
 
 - **GitHub:** [github.com/PedroStahel](https://github.com/PedroStahel)
+- **LinkedIn:** [Pedro Stahel](https://www.linkedin.com/in/pedro-stahel-86a44b349)
 - **E-mail:** [pedrostahelazv2007@gmail.com](mailto:pedrostahelazv2007@gmail.com)
 - **Localização:** Curitiba, Paraná, Brasil
 - **Idiomas:** Português nativo | Inglês avançado (C1)

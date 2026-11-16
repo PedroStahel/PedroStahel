@@ -30,9 +30,9 @@ Tenho especial interesse em **algoritmos e estruturas de dados, desenvolvimento 
 | 🧮 **[Processador Intel 4004](https://github.com/PedroStahel/ProcessadorIntel4004)** | Projeto em equipe de reprodução da arquitetura do Intel 4004, com execução de uma sequência de Fibonacci. | Logisim, arquitetura de computadores |
 | 🧱 **[Lista de Eventos Futuros](https://github.com/PedroStahel/TheBoysUFPR)** | Projeto da disciplina de Programação I baseado em tipos abstratos de dados e organização de eventos. | C, TADs |
 | 🧠 **[Programação Competitiva](https://github.com/PedroStahel/ProgramacaoCompetitiva)** | Repositório de exercícios de lógica, algoritmos e resolução de problemas. | C, algoritmos |
+| 🛡️ **[Antivírus por um Dia](https://github.com/PedroStahel/TrabalhoParadigmas)** | Jogo cooperativo em terminal desenvolvido em equipe, com exploração de tabuleiro, combate a vírus e aplicação de orientação a objetos, herança, interfaces e polimorfismo. | Java, POO |
 | ⚖️ **[Safa.IA](https://github.com/GJorge07/safA.AI)** | Protótipo desenvolvido em equipe no hackathon da OAB-PR para auxiliar advogados a organizar recebimentos a partir de contratos. | IA aplicada, projeto em equipe |
 
-**🔨 Em andamento:** [Projeto acadêmico em Java](https://github.com/PedroStahel/TrabalhoParadigmas) — desenvolvimento colaborativo com foco em **orientação a objetos, herança, classes abstratas, polimorfismo e encapsulamento**.
 
 ## 🏆 Experiências e atividades
 
